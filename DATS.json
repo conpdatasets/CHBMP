@@ -21,12 +21,12 @@
       "name": "Cuban Center for Neuroscience, La Habana, Cuba"
     },
     {
-		"name": "Pedro A. Valdes-Sosa",
-		"roles": [
-			{
-				"value": "Principal Investigator"
-			}
-		]
+      "name": "Pedro A. Valdes-Sosa",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ]
 	}
   ],
   "storedIn": {
