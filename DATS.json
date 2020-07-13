@@ -1,7 +1,8 @@
 {
   "@id": "https://w3id.org/dats/schema/dataset_schema.json",
   "@type": "Dataset",
-  "title": "The Cuban Human Brain Mapping Project (CHBMP) repository is
+  "title": "The Cuban Human Brain Mapping Normative database (EEG, MRI, and Cognition dataset)",
+  "description": "The Cuban Human Brain Mapping Project (CHBMP) repository is
     an open multimodal neuroimaging and cognitive dataset from 282 healthy participants (31.9
     ± 9.3 years, age range 18–68 years). This dataset was acquired from 2004 to 2008 as a subset
     of a larger stratified random sample of 2,019 participants from La Lisa municipality in La
