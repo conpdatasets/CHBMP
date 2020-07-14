@@ -30,7 +30,7 @@
 	}
   ],
   "storedIn": {
-    "name": "https://cuba-open.loris.ca/"
+    "name": "https://chbmp-open.loris.ca/"
   },
   "types": [
     {
@@ -87,7 +87,7 @@
       "value": "GB"
     },
     "access": {
-      "landingPage": "https://cuba-open.loris.ca",
+      "landingPage": "https://chbmp-open.loris.ca",
       "authorizations": [
         {
           "value": "private"
@@ -95,7 +95,7 @@
       ]
     },
     "storedIn": {
-        "name": "https://cuba-open.loris.ca"
+        "name": "https://chbmp-open.loris.ca"
       }
     }
   ],
