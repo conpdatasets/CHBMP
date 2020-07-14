@@ -15,7 +15,7 @@ using a go no-go paradigm), as well as general information (age, gender, educati
 handedness and weight). 
   - The EEG data contains recordings with at least 30 minutes duration including the following 
   conditions: eyes closed, eyes open, hyperventilation and subsequent recovery. 
-  - The MRI consisted in anatomical T1 and T2 as well as diffusion weighted (DWI)
+  - The MRI consisted in anatomical T1 as well as diffusion weighted (DWI)
 images acquired on a 1.5 Tesla system. 
 
 The data is available for registered users on the LORIS
