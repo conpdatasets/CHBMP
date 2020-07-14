@@ -19,4 +19,4 @@ handedness and weight).
 images acquired on a 1.5 Tesla system. 
 
 The data is available for registered users on the LORIS
-database which is part of the MNI neuroinformatics ecosystem (https://cuba-open.loris.ca).
+database which is part of the MNI neuroinformatics ecosystem (https://chbmp-open.loris.ca).
