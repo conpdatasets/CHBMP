@@ -285,9 +285,9 @@
           ] 
         },
         {
-          "@id": "https://w3id.org/dats/schema/person_schema.json",
+          "@id": "https://w3id.org/dats/schema/organization_schema.json",
           "@type": "Organization",
-          "fullName": "Cuban Human Brain Mapping Project (CHBMP)"
+          "name": "Cuban Human Brain Mapping Project (CHBMP)"
         }
       ],
       "dates": [
@@ -788,9 +788,9 @@
           ] 
         },
         {
-          "@id": "https://w3id.org/dats/schema/person_schema.json",
+          "@id": "https://w3id.org/dats/schema/organization_schema.json",
           "@type": "Organization",
-          "fullName": "Cuban Human Brain Mapping Project (CHBMP)"
+          "name": "Cuban Human Brain Mapping Project (CHBMP)"
         }
       ],
       "dates": [
