@@ -1013,6 +1013,16 @@
   ],  
   "extraProperties": [
     {
+      "category": "origin",
+      "values": [
+        {
+          "institution": "Cuban Neuroscience Center",
+          "city": "Havana",
+          "country": "Cuba"
+        }
+      ]
+    },
+    {
       "category": "subjects",
       "values": [
         {
