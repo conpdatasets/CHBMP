@@ -1,0 +1,20 @@
+{
+  "db_version": 1,
+  "files": {
+    "BIDS_dataset/sub-CBM00046/ses-V01/anat/sub-CBM00046_ses-V01_T1w.json": {
+      "filename": "sub-CBM00046_ses-V01_T1w.json",
+      "mtime": 1594649378,
+      "size": 1641
+    },
+    "BIDS_dataset/sub-CBM00046/ses-V01/anat/sub-CBM00046_ses-V01_T1w.nii.gz": {
+      "filename": "sub-CBM00046_ses-V01_T1w.nii.gz",
+      "mtime": 1594649378,
+      "size": 8509986
+    },
+    "BIDS_dataset/sub-CBM00254/ses-V01/eeg/sub-CBM00046_ses-V01_T1w.nii.gz": {
+      "filename": "sub-CBM00254_ses-V01_task-protmap_eeg.json",
+      "mtime": 1594649378,
+      "size": 475
+    }
+  }
+}
