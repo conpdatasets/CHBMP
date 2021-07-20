@@ -1,0 +1,13 @@
+July 7th 2020
+Cuban Neuroscience Center
+
+This is a dataset containing the Cuban Brain Mapping database with 282 subjects.
+EEG and MRI data (T1,DWI and Fieldmap) was collected.
+
+Cuban Brain Mapping EEG protocol:
+27 minutes maximum EEG recording
+15 minutes eyes closed
+5 minutes eyes open
+3 minutes hyperventilation
+3 minutes recuperation
+
