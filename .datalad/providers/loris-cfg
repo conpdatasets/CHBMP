@@ -1,0 +1,10 @@
+[provider:loris-chbmp-open]
+url_re = https:\/\/chbmp-open.loris.ca\/.*
+credential = loris-chbmp-open
+authentication_type = loris-token
+loris-token_failure_re = "User not authenticated"}$
+
+[credential:loris-chbmp-open]
+url = https://chbmp-open.loris.ca/api/v0.0.3/login
+type = loris-token
+
